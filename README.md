@@ -1,6 +1,6 @@
 # Game Store
 
-cara menjalankan aplikasi
+game store sederhana
 
 
 
