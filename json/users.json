@@ -1,0 +1,14 @@
+[
+    {
+        "username": "group1",
+        "password": "thebest",
+        "role": "admin",
+        "balance": 0
+    },
+    {
+        "username": "wawan",
+        "password": "wawan",
+        "role": "user",
+        "balance": 1801000.0
+    }
+]
